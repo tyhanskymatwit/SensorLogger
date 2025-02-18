@@ -1,1 +1,3 @@
 # SensorLogger
+This is a side-project that I started at the beginning of 2025, hoping to expand my knowledge of MATLAB and apply it to data collection in hopes to further my data science experience. This project requires a sensor connected via Arduino to PC to log values collected over time. Includes a UI to easily start/stop collection and display realtime data. Showcases use of packages such as MATLAB UI and functions for Data collecting, plotting, and timing.
+## NOTICE: This code was developed by Marko Tyhansky and is not authorized for redistribution without expressed or written consent from author.
